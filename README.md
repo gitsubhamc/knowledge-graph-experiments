@@ -1,7 +1,7 @@
 ## 🧠 System Architecture
 
 <p align="center">
-  <img src="images/Neo4j_experiments/images/Screenshot 2025-12-26 at 1.35.13 AM.png" width="800"/>
+  <img src="images/system_architecture.png" width="800"/>
 </p>
 
 This pipeline:
